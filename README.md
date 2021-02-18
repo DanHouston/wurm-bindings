@@ -1,4 +1,4 @@
-wurm-bindings
+wurm-bindings -d
 =============
 
 Keyboard bindings for Wurm Online
